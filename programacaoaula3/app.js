@@ -59,3 +59,15 @@ arr2.forEach(element => {
     addcomment(element);
     
 });
+
+let obj = {
+    carlos : "nome",
+    age: "numero",
+    birthmonth : "july"
+}
+
+for(const banana in obj){
+
+    console.log(obj[banana]);
+
+}
