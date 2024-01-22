@@ -1,0 +1,41 @@
+[
+    {
+        "type": "car",
+        "brand": "ferrari",
+        "speed": 9000,
+        "image": "images/ferrari-296-gtb-1.jpg"
+
+    },
+    {
+        "type": "car",
+        "brand": "fiat",
+        "speed": 50,
+        "image": "images/fiat.jpeg"
+
+    },
+    {
+        "type": "motorcycle",
+        "brand": "ducatti",
+        "speed": 900,
+        "image": "images/Untitle.jpeg"
+    },
+    {
+        "type": "motorcycle",
+        "brand": "kawazaki",
+        "speed": 600,
+        "image": "images/Untitled.jpeg"
+
+    },
+    {
+        "type": "car",
+        "brand": "renault",
+        "speed": 50,
+        "image": "images/renault.jpeg"
+    },
+    {
+        "type": "boat",
+        "brand": "titanic",
+        "speed": 2000,
+        "image": "images/titanic.jpeg"
+    }
+]
