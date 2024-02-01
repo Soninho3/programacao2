@@ -1,0 +1,44 @@
+[
+    {
+        "type": "bird",
+        "name": "seagull",
+        "canfly": true,
+        "image": "./seagull-header.jpg"
+    },
+    {
+        "type": "bird",
+        "name": "bat",
+        "canfly": true,
+        "image": "./bat.jpeg"
+    },
+    {
+        "type" : "mammal",
+        "name" : "dog",
+        "numlegs": "4",
+        "image": "191006152638-01-pets-and-our-health.jpg"
+    },
+    {
+        "type": "mammal",
+        "name": "monkey",
+        "numlegs": "2",
+        "image": ""
+    },
+    {
+        "type": "mammal",
+        "name": "horse",
+        "numlegs": 4,
+        "image": ""
+    },
+    {
+        "type": "reptile",
+        "name": "aligator",
+        "doesbite": true,
+        "image": ""
+    },
+    {
+        "type": "reptile",
+        "name": "snake",
+        "doesbite": true,
+        "image": ""
+    }
+]

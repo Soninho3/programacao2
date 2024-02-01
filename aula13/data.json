@@ -1,0 +1,58 @@
+[
+    {
+        "type": "bird",
+        "name": "seagull",
+        "canfly": true,
+        "sound": "the-restless-cry-of-seagulls.mp3",
+        "image": "./seagull-header.jpg"
+    },
+    {
+        "type": "bird",
+        "name": "bat",
+        "canfly": true,
+        "sound": "",
+        "image": "./bat.jpeg"
+    },
+    {
+        "type" : "mammal",
+        "name" : "dog",
+        "numlegs": "4",
+        "sound": "skubu-dog-howls-and-laughs.mp3",
+        "image": "191006152638-01-pets-and-our-health.jpg"
+    },
+    {
+        "type": "mammal",
+        "name": "monkey",
+        "numlegs": "2",
+        "sound": "the-sound-when-a-monkey-is-happy-about-something.mp3",
+        "image": ""
+    },
+    {
+        "type": "mammal",
+        "name": "horse",
+        "numlegs": 4,
+        "sound": "a-horse-is-galloping-in-a-cartoon-or-someone-is-running-fast.mp3",
+        "image": ""
+    },
+    {
+        "type": "reptile",
+        "name": "aligator",
+        "isagressive": true,
+        "sound": "",
+        "image": ""
+    },
+    {
+        "type": "reptile",
+        "name": "snake",
+        "isagressive": true,
+        "sound": "ominous-snake-hiss.mp3",
+        "image": ""
+    },
+    {
+        "type" : "fish",
+        "name": "sardine",
+        "isfreshwater" : true,
+        "image" : "&",
+        "sound": "&"
+    }
+]
