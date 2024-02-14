@@ -1,0 +1,48 @@
+[
+    {
+        "type": "sculpture",
+        "title": "The Veiled Virgin",
+        "artist" :"Giovanni Strazza",
+        "image" :"VeiledVirgin.jpg",
+        "medium": "Marble"
+
+    },
+    {
+        "type": "painting",
+        "title": "The last supper",
+        "artist" :"Leonardo Da Vinci",
+        "image" :"LastSupper.jpg",
+        "medium": "tempera"
+    },
+    {
+        "type": "photograph",
+        "title": "Earthrise",
+        "artist" :"Willian Anders",
+        "image" :"EarthRise.jpg",
+        "medium": "Camera"
+
+    },
+    {
+        "type": "sculpture",
+        "title": "The thinker",
+        "artist" :"Auguste rodin",
+        "image" :"TheThinker.jpg",
+        "medium": "brass"
+
+    },
+    {
+        "type": "painting",
+        "title": "Starry night",
+        "artist" :"Van Gogh",
+        "image" :"StarryNight.jpg",
+        "medium": "Oil paint"
+
+    },
+    {
+        "type": "photograph",
+        "title": "Afghan Girl",
+        "artist" :"Steve McCurry",
+        "image" :"AfghanGirl.jpg",
+        "medium": "camera"
+    }
+]

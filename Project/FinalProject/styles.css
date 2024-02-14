@@ -1,0 +1,38 @@
+body{
+    background-color:  grey;
+    margin : 0px;
+
+}
+#firsth1{
+    text-align: center;
+}
+header{
+    width: 100vw;
+    height: 80px;
+    background-color: orange ;
+    display: flow-root;
+}
+.bigdiv{
+    
+    margin: auto;
+    margin-bottom: 0px;
+    width: 300px;
+    height: 300px;
+    display: block;
+    border: 7px solid olivedrab;
+    text-align: center;
+    background-color: #0a0a0a;
+}
+.bigdiv img{
+    width: 100%;
+    height: 75%;
+}
+.bigdiv button{
+    width: 55px;
+    height: 18px;
+}
+.bigdiv .smalldiv{
+    width: 100%;
+    height: 30px;
+    font-size: 13px;
+}
